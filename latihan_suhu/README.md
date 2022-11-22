@@ -1,16 +1,12 @@
 # latihan_suhu
 
-A new Flutter project.
+Tugas pengembangan dari latihan suhu. 
+yang mempelajari mengenai statefull widget dan map.
 
-## Getting Started
+Dimana kembangan ini akan berfungsi tanpa harus kita klik button konversi kita akan langsung mengkonversikan sendiri suhu nya.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+terdapat juga fitur slider dari 0 sampai 100 untuk pengisian suhu
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshots
+![image](https://user-images.githubusercontent.com/95729081/201822855-a387cbca-af56-4546-bcc6-be5321d53ffd.png)
